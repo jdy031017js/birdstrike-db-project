@@ -1,3 +1,4 @@
+
 /* 공항 */
 CREATE TABLE airport (
     iata CHAR(3) NOT NULL PRIMARY KEY,
